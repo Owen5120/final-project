@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163699839593",
+    "project_id": "facerecognitionattendanc-97cef",
+    "storage_bucket": "facerecognitionattendanc-97cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163699839593:android:fbdec498a86d1ee07188f8",
+        "android_client_info": {
+          "package_name": "com.example.miniprojectsem5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_SsAE7bt4YlK7gRATII1_QDUPkHzX3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163699839593:android:0ba91cabcf811e307188f8",
+        "android_client_info": {
+          "package_name": "com.example.miniprojectsem5backup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_SsAE7bt4YlK7gRATII1_QDUPkHzX3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
