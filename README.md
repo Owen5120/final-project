@@ -1,10 +1,12 @@
-#Attendance Monitoring System
+# README
 
-#Overview
+# Attendance Monitoring System
+
+# Overview
 
 The Attendance Monitoring System is a mobile application designed to revolutionize attendance tracking in educational institutions and workplaces. Leveraging geofencing technology and facial recognition, the system offers a modern and efficient approach to attendance management.
 
-#Features
+# Features
 
 Geofencing: Define virtual boundaries to restrict attendance marking to specific locations.
 Facial Recognition: Authenticate users through facial biometrics for enhanced security.
@@ -25,7 +27,8 @@ Mark attendance by either:
 Being present within the designated geofenced area.
 Authenticating through facial recognition.
 View and manage attendance records in real-time.
-#Dependencies
+
+# Dependencies
 
 Flutter: Link to Flutter website
 Geolocator Plugin: Link to Geolocator Plugin
